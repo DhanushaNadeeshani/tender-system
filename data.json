@@ -1,42 +1,5 @@
 {
-  "tenders": [
-    {
-      "id": "1001",
-      "name": "Tender A",
-      "number": "T-A-001",
-      "site": "Balangoda",
-      "quantity": 100,
-      "product": "9M-500KG",
-      "awardedDate": "2024-06-01",
-      "dueDate": "2024-07-15",
-      "completed": 60
-    },
-    {
-      "id": "1002",
-      "name": "Tender B",
-      "number": "T-B-002",
-      "site": "Godagama",
-      "quantity": 120,
-      "product": "11M-500KG",
-      "awardedDate": "2024-06-10",
-      "dueDate": "2024-07-30",
-      "completed": 40
-    }
-  ],
-  "manufacturingRecords": [
-    {
-      "id": "m1",
-      "tenderId": "1001",
-      "location": "Balangoda",
-      "polesCompleted": 20,
-      "date": "2024-06-15"
-    },
-    {
-      "id": "m2",
-      "tenderId": "1002",
-      "location": "Godagama",
-      "polesCompleted": 40,
-      "date": "2024-06-18"
-    }
-  ]
+  "tenders": [],
+  "manufacturingRecords": [],
+  "lastUpdated": "2025-01-01T00:00:00.000Z"
 }
